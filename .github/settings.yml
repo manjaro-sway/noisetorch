@@ -1,4 +1,4 @@
 _extends: manjaro-contrib/.github
 repository:
   homepage: https://aur.archlinux.org/noisetorch-bin.git
-
+  topics: arch, package, x86-64
